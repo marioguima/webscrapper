@@ -1,0 +1,19 @@
+{
+  "name": "webscrapper",
+  "version": "1.0.0",
+  "description": "Ler conteúdo de sites para produzir novos formatos de exibição da informação",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marioguima/webscrapper.git"
+  },
+  "author": "Mario Guimaraes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marioguima/webscrapper/issues"
+  },
+  "homepage": "https://github.com/marioguima/webscrapper#readme"
+}
